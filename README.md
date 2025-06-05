@@ -16,7 +16,7 @@ AGNDC is a lightweight neural surface reconstruction framework designed for bina
 - 🔄 DFFM: Dual-branch fusion module that integrates spatial and channel-wise features across scales.
 - 🧩 CRPM: Lightweight post-processing module for contour-aware refinement and patch-level surface stitching.
 
-It enables effective binary-to-mesh reconstruction without relying on continuous SDF input.
+It enables effective binary-to-mesh surface reconstruction through attention-guided feature extraction, multi-scale fusion, and contour refinement.
 
 ---
 
