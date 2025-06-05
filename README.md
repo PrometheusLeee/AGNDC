@@ -22,4 +22,4 @@ It enables effective binary-to-mesh reconstruction without relying on continuous
 
 ## 🖼️ Method Illustration
 
-![AGNDC Architecture](assets/architecture.png)
+![AGNDC Architecture](assets/AGNDC_AGDRNet.jpg)
