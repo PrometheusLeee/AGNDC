@@ -10,7 +10,7 @@ This repository provides the official implementation of our paper:
 
 ## 🔍 Overview
 
-AGNDC is a lightweight neural surface reconstruction framework designed for binary voxel inputs. It combines:
+AGNDC is a neural surface reconstruction framework designed for binary voxel inputs. It combines:
 
 - 🎯 GDFEM: Attention-guided feature extractor combining local window self-attention and dynamic snake convolution for enhanced voxel encoding.
 - 🔄 DFFM: Dual-branch fusion module that integrates spatial and channel-wise features across scales.
