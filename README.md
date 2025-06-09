@@ -22,4 +22,4 @@ It enables effective binary-to-mesh surface reconstruction through attention-gui
 
 ## 🖼️ Method Illustration
 
-/*![AGNDC Architecture](assets/AGNDC_AGDRNet.jpg)*/
+
